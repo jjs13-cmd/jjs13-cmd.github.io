@@ -2,8 +2,8 @@
 theme: Jacksons Website CS171
 <head>
   <body>
-    <style>
-      title: Hello My name is Jackson Schaffner 
-    </style>
+    
+      Hello My name is Jackson Schaffner 
+    
   </body>
 </head>
